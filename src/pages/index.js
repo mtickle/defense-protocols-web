@@ -34,12 +34,23 @@ export default function Home() {
           fontSize: '3.5rem',
           fontWeight: '900',
           color: 'white',
-          letterSpacing: '-0.05em',
+          letterSpacing: '-0.00em',
           lineHeight: '1.1',
           marginBottom: '1rem'
         }}>
-          BATTLE<br />PROTOCOLS
+          Spiritual Resilience
         </h1>
+
+        <h2 style={{
+          fontSize: '2.5rem',
+          fontWeight: '900',
+          color: 'white',
+          letterSpacing: '-0.00em',
+          lineHeight: '1.1',
+          marginBottom: '1rem'
+        }}>
+          BIBLICAL DEFENSE PROTOCOLS
+        </h2>
 
         <p style={{
           fontSize: '1.25rem',
