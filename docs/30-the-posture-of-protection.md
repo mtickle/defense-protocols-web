@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 30
 title: "The Posture of Protection: Equipment and Alignment"
 description: The Five Pillars of Stability.
 ---

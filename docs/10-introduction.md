@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-title: "The Attack"
+sidebar_position: 10
+title: "The Attack: The Enemy at the Gate "
 description: Why opposition increases when you draw near to God.
 ---
 
@@ -20,7 +20,7 @@ This is a tip! You can use **Markdown** inside here as well.
 This is a tip! You can use **Markdown** inside here as well.
 :::
 
-# The Attack: The Enemy at the Gate 
+
 
 In September 2025, I was ordained as a deacon in my church.  It was an emotional service; I stood before the congregation, gave my testimony (as you read in the previous section), and felt the weight of hands laid upon me in prayer. I was a musician, a youth leader, and now a deacon. I felt like my walk with God was about to reach new heights. 
 
