@@ -38,7 +38,7 @@ export default function Home() {
           lineHeight: '1.1',
           marginBottom: '1rem'
         }}>
-          Spiritual Resilience
+          TAKE YOUR STAND
         </h1>
 
         <h2 style={{
@@ -49,7 +49,7 @@ export default function Home() {
           lineHeight: '1.1',
           marginBottom: '1rem'
         }}>
-          BIBLICAL DEFENSE PROTOCOLS
+          Biblical Defense Protocols
         </h2>
 
         <p style={{
@@ -59,8 +59,7 @@ export default function Home() {
           marginBottom: '3rem',
           lineHeight: '1.6'
         }}>
-          A field manual for spiritual resilience. <br />
-          Anchor your mind. Defend your heart.
+          A field manual for spiritual resilience.
         </p>
 
         {/* The Fork in the Road */}

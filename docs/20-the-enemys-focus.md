@@ -11,7 +11,7 @@ It is only when you turn around and plant your feet to walk toward God—you ste
 
 This collision often catches believers off guard. When we commit to prayer, deeper study, or a new step of faith, we would obviously expect peace. Instead, we often encounter a sudden spike in anxiety, distraction, or chaos. It is easy to interpret this friction as a sign that we have done something wrong, not prayed or studied properly, or that God has abandoned us.
 
-**However, the reality is the exact opposite: Friction is proof of motion.**
+However, the reality is the exact opposite: Friction is proof of motion.
 
 In physics, you cannot have friction without movement; in a spiritual life, you rarely face active opposition without spiritual momentum. The enemy does not waste resources on targets that are already neutralized or asleep. He focuses his interference on those who are waking up, drawing near, and becoming dangerous to his kingdom.
 
@@ -91,24 +91,37 @@ If you receive a profound insight during a sermon or a moment of prayer, and are
 
 ### Peter’s Sifting
 
-Jesus reveals that the enemy asked to "sift" Peter. Notice that Jesus didn't pray for Peter to escape the sifting, but that his faith would not fail during the process.
+> "Simon, Simon, Satan has asked to sift all of you as wheat. But I have prayed for you, Simon, that your faith may not fail." (Luke 22:31-32)
 
-**The Principle:** The level of your opposition often corresponds to the level of your calling. The sifting is not meant to destroy you, but to disqualify you.
+This interaction between Jesus and Peter takes place just hours before the crucifixion. The timing is critical: Peter is about to step into his role as the leader of the early Church. Because of this future potential, he has been specifically requested by name by the enemy.
+
+Jesus reveals that the enemy asked to "sift" Peter. In agriculture, sifting involves violent shaking to separate the wheat from the chaff. The enemy wanted to shake Peter so violently that his faith would detach from his soul. Notice that Jesus didn't pray for Peter to escape the sifting; He prayed that Peter’s faith would not fail during the process.
+
+:::tip[The Principle]
+The level of your opposition often corresponds to the level of your calling. Peter was targeted because he was a key to the future of the Kingdom. When you feel like your life is being violently shaken, it may be because you have been identified as a threat to the enemy. The sifting is not meant to destroy you, but to disqualify you. Standing firm is the victory.
+:::
 
 ### The Thief’s Motive
 
-> "The thief comes only to steal and kill and destroy..."
+> "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full." (John 10:10)
 
-**The Principle:** A thief is motivated by value. If the enemy is trying to steal your peace, it is proof that you possess something worth stealing. 
+This verse provides the fundamental "why" behind every spiritual attack. Jesus contrasts His mission (giving life) with the enemy’s mission (taking it). The metaphor of the "thief" is intentional and revealing.
 
----
+A thief is motivated by value. He does not break into an empty house; he breaks into a house that contains treasure. He does not pick the pocket of a man who is penniless. The very presence of a thief suggests the presence of something worth stealing. If the enemy is trying to steal your peace, kill your joy, or destroy your destiny, it is proof that you possess peace, joy, and a destiny worth having.
 
-## Conclusion: The Badge of Honor 
+:::tip[The Principle]
+You can measure your spiritual net worth by the interest the enemy takes in you. If you were spiritually bankrupt, he would leave you alone. The intensity of the interference is a backhanded compliment from hell—it confirms that you carry something of great value to the Kingdom of God.
+:::
+ 
+## You Are Dangerous 
 
-Great friction often accompanies great calling. The enemy does not waste ammunition on those who are asleep. The fact that he is pushing against you is evidence that you are waking up. 
+For too long, many of us have interpreted spiritual opposition as a sign of God’s disapproval. We assume that if He were truly with us, the path would be smooth. But the biblical narrative tells a different story. From the wilderness of Jesus’ temptation to the sifting of Peter, the pattern is undeniable: Great friction often accompanies great calling. I pray this chapter has offered you a new lens through which to view your struggle.
 
-You are not being attacked because you are weak; you are being attacked because you are dangerous. 
+The enemy does not waste his ammunition on those who are asleep. The fact that he is pushing against you is evidence that you are waking up. The anxiety, the distraction, and the sudden obstacles are not signs that you have lost your way; they are often the very confirmation that you have found it.
 
-Knowing why the attack is happening is the first step, but it does not stop the attack. For that, we need a strategy. We need practical, biblical tools to stand firm when the current tries to sweep us downstream. 
+You are not being attacked because you are weak; you are being attacked because you are dangerous.
 
-**We have identified the problem. Now, let’s look at the protocols for the solution.**
+Do not give up on your faith just to stop the attack! We will learn together how to fight back. The first step in this journey is simply to stop being surprised. When the interference comes, refuse to panic. Refuse to ask, "What did I do wrong?" and instead realize that your pursuit of Him has drawn the attention of the enemy who fears your spiritual potential.
+
+However, realization is only the first step. Knowing why the attack is happening is comforting, but it does not stop the attack. For that, we need a strategy. We need practical, biblical tools to stand firm when the current tries to sweep us downstream. We need to roll up our sleeves and fight back.
+

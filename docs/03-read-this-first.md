@@ -1,7 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 title: "Read This First"
-slug: /read-this
 ---
 
 :::danger[Stop!]

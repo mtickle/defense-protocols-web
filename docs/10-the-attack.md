@@ -1,26 +1,7 @@
 ---
 sidebar_position: 10
 title: "The Attack: The Enemy at the Gate "
-description: Why opposition increases when you draw near to God.
 ---
-
-:::tip
-This is a tip! You can use **Markdown** inside here as well.
-:::
-
-:::danger
-This is a tip! You can use **Markdown** inside here as well.
-:::
-
-:::note
-This is a tip! You can use **Markdown** inside here as well.
-:::
-
-:::caution
-This is a tip! You can use **Markdown** inside here as well.
-:::
-
-
 
 In September 2025, I was ordained as a deacon in my church.  It was an emotional service; I stood before the congregation, gave my testimony (as you read in the previous section), and felt the weight of hands laid upon me in prayer. I was a musician, a youth leader, and now a deacon. I felt like my walk with God was about to reach new heights. 
 
@@ -45,10 +26,12 @@ I needed a weapon.  I didn't need a heavy theological textbook I had to read for
 
 So, I got to work. Using the Bible as my foundation—and yes, utilizing modern AI tools to help me organize and research theological concepts—I built these Biblical defense protocols, and now, in the hope of it helping more than just me, I am sharing them with you. 
 
-I wanted a system that was portable, easy and quick to digest, sharable and yes, simple. All steps of each protocol are written as: 
+I wanted a system that was portable, easy and quick to digest, sharable and yes, simple.
+
+All steps of each protocol are written as: 
 
 * **A Verse:** The weapon from Scripture. 
-* **Insight:** A quick summary of how and what I could be feeling. 
+* **Insight:** A quick summary of how and what you or I could be feeling. 
 * **The Trigger:** How to identify the attack. 
 * **The Action:** What to do physically and spiritually. 
 * **The Goal:** The specific outcome I needed to reach. 
@@ -61,8 +44,8 @@ I am neither a theologian nor counsellor. I am merely a believer in my Lord and 
 
 This is not an instant cure. Consider it a stepping stone. It is a field manual for when you feel the fire burning and the enemy reaching out to touch you.
 
-**Administrative notes:** 
+## Administrative notes
 
-All verses are from the New International Version (NIV) and are presented in a format recommended by both the AP Style Guide, the Chicago Manual of Style, and ChristianWriters.com. 
+* All verses are from the New International Version (NIV) and are presented in a format recommended by both the AP Style Guide, the Chicago Manual of Style, and ChristianWriters.com. 
 
-The "enemy" here is always the devil or Satan, unless it is specifically part of a Bible verse. I will always refer to it as the enemy in lower case. It does not deserve the recognition of a capitalized proper noun. 
+* The "enemy" here is always the devil or Satan, unless it is specifically part of a Bible verse. I will always refer to it as the enemy in lower case. It does not deserve the recognition of a capitalized proper noun. 

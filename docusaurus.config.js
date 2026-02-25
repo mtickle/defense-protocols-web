@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Biblical Defense Protocols',
+  title: 'TAKE YOUR STAND: Biblical Defense Protocols',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -85,7 +85,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Biblical Defense Protocols',
+        title: 'TAKE YOUR STAND',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
