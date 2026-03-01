@@ -22,13 +22,11 @@ export default function Home() {
         padding: '2rem'
       }}>
 
-        {/* Animated Icon or Logo */}
-        <div style={{ marginBottom: '2rem', color: '#10b981' }}>
-          {/* If you don't have Lucide installed in Docusaurus yet, just use an SVG or image here */}
+        {/* <div style={{ marginBottom: '2rem', color: '#10b981' }}>
           <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
             <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
           </svg>
-        </div>
+        </div> */}
 
         <h1 style={{
           fontSize: '3.5rem',
@@ -59,14 +57,17 @@ export default function Home() {
           marginBottom: '3rem',
           lineHeight: '1.6'
         }}>
-          A field manual for spiritual resilience.
+          “Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can
+          take your stand against the devil’s schemes. For our struggle is not against flesh and blood, but
+          against the rulers, against the authorities, against the powers of this dark world and against the
+          spiritual forces of evil in the heavenly realms.” (Ephesians 6:10-12)
         </p>
 
         {/* The Fork in the Road */}
         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', justifyContent: 'center' }}>
 
           {/* Button 1: The App */}
-          <Link
+          {/* <Link
             to="https://app.battleprotocols.com"
             style={{
               backgroundColor: '#10b981', // Emerald
@@ -82,11 +83,11 @@ export default function Home() {
             }}>
             <span>LAUNCH APP</span>
             <span>→</span>
-          </Link>
+          </Link> */}
 
           {/* Button 2: The Manual */}
           <Link
-            to="/docs/introduction"
+            to="/docs/read-this-first"
             style={{
               backgroundColor: 'transparent',
               color: 'white',
